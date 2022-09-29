@@ -79,11 +79,13 @@
 					border: 1px solid #f2994a;
 					border-radius: 6px;
 					color: #f2994a;
+					font-size: 16px;
 					@include media {
 						padding: vw(4) vw(8);
 						width: vw(37);
 						height: vw(29);
 						border-radius: vw(6);
+						font-size: vw(16);
 					}
 				}
 			}
